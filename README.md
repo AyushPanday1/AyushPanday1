@@ -1,5 +1,5 @@
 ### Hi there...
-### **I am *Ayush panday* a backend developer from Rajasthan(India) and passionate about coding and software development.**
+### **I am *Ayush panday* an intern backend developer from Rajasthan(India) and passionate about coding and software development.**
 
 ### Skills: 
 JS / EXPRESS / NODE / MONGO-DB / AWS-S3
