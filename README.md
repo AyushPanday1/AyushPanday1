@@ -8,8 +8,10 @@ Skills: JS/EXPRESS/NODE/MONGO-DB/AWS-S3
 - 🔭 I’m currently working on this page. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AyushPanday1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ayush-panday-799b3120b//)   
- 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AyushPanday1) 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ayush-panday-799b3120b//) 
 ![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=AyushPanday1)
 - 🔭 I’m currently working on Backend devlopement.
 - 🌱 I’m currently learning node.js and express
