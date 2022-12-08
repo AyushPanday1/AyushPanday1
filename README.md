@@ -1,8 +1,9 @@
 ### Hi there...
-#### A backend developer.
+###A backend developer.
 **I am *Ayush panday* from Rajasthan(India) and passionate about coding and software development.**
 
-Skills: JS / EXPRESS / NODE / MONGO-DB / AWS-S3
+###Skills: 
+JS / EXPRESS / NODE / MONGO-DB / AWS-S3
  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ayush-panday-799b3120b//) 
 
