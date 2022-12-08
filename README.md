@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=Ayush panday)
+![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=AyushPanday1)
 - 🔭 I’m currently working on Backend devlopement.
 - 🌱 I’m currently learning node.js and express
 - 👯 I’m looking to collaborate on software companies.
