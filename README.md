@@ -2,7 +2,7 @@
 ### **I am *Ayush panday* an intern backend developer from Rajasthan(India) and passionate about coding and software development.**
 
 ### Skills: 
-JS / EXPRESS / NODE / MONGO-DB / AWS-S3
+Javascript / Express.js / Node.js / MONGO-DB / AWS-S3
  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ayush-panday-799b3120b//) 
 
