@@ -3,7 +3,7 @@
 
 ### Skills: 
 Javascript / Express.js / Node.js / MONGO-DB / AWS-S3 
-<img src="{https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white}" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 
  ### Connect with me :
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ayush-panday-799b3120b//) 
