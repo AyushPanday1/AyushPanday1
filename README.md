@@ -16,8 +16,6 @@
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
 
 
-![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=AyushPanday1)
-
 - 🔭 I’m currently working on Backend devlopement.
 - 🌱 I’m currently learning node.js and express
 - 👯 I’m looking to collaborate on software companies.
