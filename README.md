@@ -3,7 +3,7 @@
 
 
 ### Skills: 
-Javascript / Express.js / Node.js / MONGO-DB / AWS-S3
+Javascript / Express.js / Node.js / MONGO-DB / AWS-S3 / Git
 
 
  ### Connect with me :
