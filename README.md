@@ -2,10 +2,11 @@
 ### **I am *Ayush panday* an intern backend developer from Rajasthan(India) and passionate about coding and software development.**
 
 
-![pexels-photo-1072179](https://user-images.githubusercontent.com/114577936/206969814-2e255356-0cd9-4cf1-b8cd-a3844cfd0eeb.jpeg)
+<p float="right">
+  <img src="
 
- <img src="![pexels-photo-1072179](https://user-images.githubusercontent.com/114577936/206970105-6ff88993-5b53-41d7-baac-e995d5f3406d.jpeg)
-" width="100" />
+![pexels-photo-1072179](https://user-images.githubusercontent.com/114577936/206969814-2e255356-0cd9-4cf1-b8cd-a3844cfd0eeb.jpeg)" width="100" />
+</p>
 
 
 ### Skills: 
