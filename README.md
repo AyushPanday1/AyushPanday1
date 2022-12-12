@@ -1,7 +1,7 @@
 ### Hi there and welcome 👋 ...
 ### **I am *Ayush panday* an intern backend developer from Rajasthan(India) and passionate about coding and software development.**
 
-### Skills:
+### Tech-Skills:
 
 <img src ="https://img.shields.io/badge/JSS-F7DF1E?style=for-the-badge&logo=JSS&logoColor=white"/> <img src ="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
