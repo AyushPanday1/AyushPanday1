@@ -1,4 +1,4 @@
-### Hii there and welcome 👋 ...
+### Hii there and welcome. 👋
 ### **I am *Ayush panday* an intern backend developer from Rajasthan(India) and passionate about coding and software development.**
 
 
