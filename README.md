@@ -33,7 +33,7 @@
 
 .
 ### Github stats:
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushPanday1&show_icons=true&theme=radica)
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushPanday1&show_icons=true&theme=radical)
 
 
 
