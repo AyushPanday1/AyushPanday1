@@ -3,10 +3,10 @@
 
 <h1 align="center">Hii there and welcome. 👋</h1>
 
-<h3> I am Ayush panday an intern backend developer from Rajasthan(India) and passionate about coding and software development. </h3>
+<h2> I am Ayush panday an intern backend developer from Rajasthan(India) and passionate about coding and software development. </h2>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-.
+
 
  ### Connect with me :
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ayush-panday-799b3120b//) 
