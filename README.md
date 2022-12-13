@@ -20,9 +20,12 @@
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
 
 
-### About:
+
 
 .
+
+### About:
+
 - 🔭 I’m currently working on Backend devlopement.
 - 🌱 I’m currently learning node.js and express
 - 👯 I’m looking to collaborate on software companies.
