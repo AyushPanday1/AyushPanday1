@@ -3,7 +3,7 @@
 
 <h1 align="center">Hii there and welcome. 👋</h1>
 
-<h2> I am Ayush panday an intern backend developer from Rajasthan(India) and passionate about coding and software development. </h2>
+### I am Ayush panday an intern backend developer from Rajasthan(India) and passionate about coding and software development. 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
