@@ -32,6 +32,9 @@
 - ⚡ Fun fact: I love fun but only with work done.
 
 
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+
 
 
 
