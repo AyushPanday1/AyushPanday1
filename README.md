@@ -32,7 +32,7 @@
 - ⚡ Fun fact: I love fun but only with work done.
 
 
-<img width="600" src="![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushPanday1&show_icons=true&theme=radical)">
+<img =![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushPanday1&show_icons=true&theme=radical)>
 
 
 
