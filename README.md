@@ -39,7 +39,7 @@
 ### Github stats:
 
 
-<img align="right" alt="Coding" width="400" src="[![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushPanday1&show_icons=true&theme=radical)](https://github.com/AyushPanday1/github-readme-stats)">
+<img align="right" alt="Coding" width="400" src=[![Ayush's GitHub stats]"(https://github-readme-stats.vercel.app/api?username=AyushPanday1&show_icons=true&theme=radical)](https://github.com/AyushPanday1/github-readme-stats)">
 
 
 
