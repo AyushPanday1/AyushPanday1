@@ -19,9 +19,6 @@
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
 
-### Github stats:
-
-[![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushPanday1&show_icons=true&theme=radical)](https://github.com/AyushPanday1/github-readme-stats)
 
 
 - 🔭 I’m currently working on Backend devlopement.
@@ -30,7 +27,12 @@
 - 💬 Ask me about JS, express and node.js
 - 📫 How to reach me:  ayush7426883261@gmail.com
 - ⚡ Fun fact: I love fun but only with work done.
--->
+
+
+
+### Github stats:
+
+[![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushPanday1&show_icons=true&theme=radical)](https://github.com/AyushPanday1/github-readme-stats)
 
 
 
