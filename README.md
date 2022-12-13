@@ -15,6 +15,8 @@
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
 
+[![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushPanday1)](https://github.com/AyushPanday1/github-readme-stats)
+
 
 - 🔭 I’m currently working on Backend devlopement.
 - 🌱 I’m currently learning node.js and express
