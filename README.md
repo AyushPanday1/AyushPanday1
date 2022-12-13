@@ -1,10 +1,9 @@
-### Hii there and welcome. 👋
 
 
-<h1 align="center">Hi 👋, I'm Ravi Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
+<h1 align="center">Hii there and welcome. 👋</h1>
+<h3 align="center">**I am *Ayush panday* an intern backend developer from Rajasthan(India) and passionate about coding and software development.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-### **I am *Ayush panday* an intern backend developer from Rajasthan(India) and passionate about coding and software development.**
 
 
 
