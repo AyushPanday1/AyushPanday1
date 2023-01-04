@@ -31,7 +31,7 @@
 - 📫 How to reach me:  ayush7426883261@gmail.com
 - ⚡ Fun fact: I love fun but only with work done.
 
-
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushPanday1&count_private=true)
 
 
 
