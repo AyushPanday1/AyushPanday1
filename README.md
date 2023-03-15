@@ -7,9 +7,6 @@
 .
  ### Connect with me :
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ayush-panday-799b3120b//) 
-
-<a href="https://instagram.com/ayush_panday___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayush_panday___" height="40"  /></a>
-
 [<img src='"https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg' alt='Instagram' height='40'>](https://www.instagram.com/ayush_panday___/)
 
 .
