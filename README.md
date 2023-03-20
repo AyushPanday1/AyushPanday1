@@ -1,6 +1,6 @@
 ### Hii there and welcome. 👋
 
-### I am ***Ayush panday*** a backend developer from Rajasthan(India) & passionate about coding and software development.
+### I am a Node.js developer from Rajasthan(India). Always passionate about coding and web development.
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
