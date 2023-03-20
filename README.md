@@ -4,7 +4,6 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AyushPanday1&label=Profile%20views&color=0e75b6&style=flat" alt="AyushPanday1" /> </p>
 .
  ### Connect with me :
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ayush-panday-799b3120b//) 
