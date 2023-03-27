@@ -41,7 +41,6 @@
 
 
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={AyushPanday1}&theme={radical}"/>
 
 
 
