@@ -1,6 +1,6 @@
 ### Hii there and welcome. 👋
 
-### I am a Node.js developer from Rajasthan(India). Always passionate about coding and web development.
+### I am a Web-developer from Rajasthan(India).I'm always passionate about coding and web development.
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
