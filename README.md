@@ -31,10 +31,10 @@
 
 ### About:
 
-- 🔭 I’m currently working on Backend devlopement.
+- 🔭 I’m currently working as web-devloper.
 - 🌱 I’m currently learning React.js and python.
 - 👯 I’m looking to collaborate on software companies.
-- 💬 Ask me about JS, express and node.js
+- 💬 Ask me about JS, express, React.js and node.js
 - 📫 How to reach me:  ayush7426883261@gmail.com
 - ⚡ Fun fact: I love fun but only with work done.
 
