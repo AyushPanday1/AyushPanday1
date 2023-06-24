@@ -1,7 +1,7 @@
 ### Hii there and welcome!
 
 ### I am a deep-learner, JavaScript-enthusiast & Web-developer from Rajasthan, India. 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 
 .
