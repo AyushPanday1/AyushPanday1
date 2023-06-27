@@ -6,8 +6,9 @@
 
 .
  ### Connect with me :
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ayush-panday-799b3120b//) 
-
+<a href="https://www.linkedin.com/in/ayush-panday-799b3120b//">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 
 .
