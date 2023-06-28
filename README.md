@@ -6,11 +6,12 @@
 
 .
  ### Connect with me :
-<a href="https://www.linkedin.com/in/ayush-panday-799b3120b//">
-<img src=https://img.shields.io/badge/plastic?logo=Instagram&logoColor=Black&labelColor=Pink
-" />
+<a href="https://www.linkedin.com/in/ayush-panday-799b3120b/">
+  <img align="left" alt="Ayush LinkdeIN" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
+<a href="https://www.instagram.com/ayushpanday__/">
+  <img align="left" alt="Ayush Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 .
 
 
