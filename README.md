@@ -9,6 +9,7 @@
 <a href="https://www.linkedin.com/in/ayush-panday-799b3120b//">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+[1.2]: http://i.imgur.com/wWzX9uB.png
 
 .
 
