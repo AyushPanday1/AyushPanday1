@@ -1,5 +1,5 @@
-# Ayush Panday--@AyushPanday1
-### Hii, I am Ayush
+
+### Hii, I am Ayush - a web-developer, deep-learner and passionate JavaScript enthusiast from Rajasthan India. Driven by a passion for crafting clean, efficient, and maintainable code. 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 .
