@@ -1,18 +1,17 @@
-### Hii there and welcome!
-
-### I am a deep-learner, JavaScript-enthusiast & Web-developer from Rajasthan, India. 
+# Ayush Panday--@AyushPanday1
+### Hii, I am Ayush
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 .
 
 
  ### Social :
- ##Connect
+
 <a href="https://www.linkedin.com/in/ayush-panday-799b3120b/">
   <img align="left" alt="Ayush LinkdeIN" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a> <a href="https://www.instagram.com/ayushpanday__/">
   <img align="left" alt="Ayush Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> 
   </a>
-follow
+
 .
 .
 
