@@ -7,7 +7,7 @@
 .
  ### Connect with me :
 <a href="https://www.linkedin.com/in/ayush-panday-799b3120b//">
-<img src="https://img.shields.io/badge/Instagram-#E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/:badgeContent?logo=%23E4405F&logoColor=Black&labelColor=Pink" />
 </a>
 
 .
