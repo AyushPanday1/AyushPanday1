@@ -1,5 +1,5 @@
 
-### Hii, I am Ayush - a web-developer, deep-learner and passionate JavaScript enthusiast from Rajasthan India. Driven by a passion for crafting clean, efficient, and maintainable code. 
+### Hii, I am Ayush - a web-developer, deep-learner and passionate JavaScript enthusiast from Rajasthan India. I've Skills in MERN, Backend & Fullstack technologies and passion driven for crafting clean, efficient, and maintainable code.  I strive to build engaging and interactive experiences for users while collaborating with development teams.
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 .
@@ -12,8 +12,7 @@
   <img align="left" alt="Ayush Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> 
   </a>
 
-.
-.
+
 
 
 
