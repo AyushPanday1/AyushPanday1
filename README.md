@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://ayushpanday-portfolio.netlify.app/">
-<img src="https://static.vecteezy.com/system/resources/previews/000/355/666/original/portfolio-vector-icon.jpg" />
+<img alt='coding' width='15' src="https://static.vecteezy.com/system/resources/previews/000/355/666/original/portfolio-vector-icon.jpg" />
 </a>
 .
 ### Tech-Stack:
