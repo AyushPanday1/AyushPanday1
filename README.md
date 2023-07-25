@@ -1,5 +1,5 @@
 ## Hii, I'm Ayush Panday
-### A web-developer, deep-learner and passionate JavaScript enthusiast from Rajasthan India. I've Skills in MERN, Backend & Fullstack technologies and passion driven for crafting clean, efficient, and maintainable code.  I strive to build engaging and interactive experiences for users while collaborating with development teams.
+### As a web developer, deep learner, and passionate JavaScript enthusiast from Rajasthan, India, I possess a diverse skill set in MERN, backend, and full-stack technologies. I am driven by a strong passion for crafting clean, efficient, and maintainable code. My focus is on building engaging and interactive experiences that leave a lasting impression on users. I thrive in collaborative environments, working closely with development teams to bring innovative ideas to life. My commitment to continuous learning and staying up-to-date with the latest industry trends empowers me to deliver high-quality solutions that meet modern standards. Let's embark on new projects and create exceptional digital experiences together!
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 .
