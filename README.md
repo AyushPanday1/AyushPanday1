@@ -44,8 +44,8 @@
 - 📫 How to reach me:  ayush7426883261@gmail.com
 - ⚡ Fun fact: I love fun but only with work done.
 
-
-
+---
+.
 
 ## Happy Coding!
 © 2023 Ayush Panday
