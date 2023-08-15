@@ -7,7 +7,7 @@
 
 <a href="https://www.linkedin.com/in/ayush-panday-799b3120b/">
   <img align="left" alt="Ayush LinkdeIN" width="45px" src="https://img.freepik.com/free-icon/linkedin_318-183415.jpg?t=st=1692078414~exp=1692079014~hmac=cf2b4504ce0af360549f9bbfc09318007a5c542b90b7c9037b8655055d9c8b05" /> </a> <a href="https://www.instagram.com/ayushpanday__/">
-  <img align="left" alt="Ayush Instagram" width="55px" src="https://img.freepik.com/free-vector/instagram-icon_1057-2227.jpg?w=740&t=st=1692078270~exp=1692078870~hmac=d3bd41e1ec5b9a3f2ef11fb00ad954546a29799045e0fe134209b69ea6071c8e" /> 
+  <img align="left" alt="Ayush Instagram" width="55px" src="https://img.freepik.com/premium-vector/instagram-social-media-icon-gradient-social-media-logo_197792-4682.jpg?w=740" /> 
   </a>
 
 
