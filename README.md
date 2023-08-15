@@ -6,7 +6,7 @@
  ### Social :
 
 <a href="https://www.linkedin.com/in/ayush-panday-799b3120b/">
-  <img align="left" alt="Ayush LinkdeIN" width="32px" src="https://img.freepik.com/free-vector/instagram-icon_1057-2227.jpg?w=740&t=st=1692078270~exp=1692078870~hmac=d3bd41e1ec5b9a3f2ef11fb00ad954546a29799045e0fe134209b69ea6071c8e" /> </a> <a href="https://www.instagram.com/ayushpanday__/">
+  <img align="left" alt="Ayush LinkdeIN" width="45px" src="https://img.freepik.com/free-vector/instagram-icon_1057-2227.jpg?w=740&t=st=1692078270~exp=1692078870~hmac=d3bd41e1ec5b9a3f2ef11fb00ad954546a29799045e0fe134209b69ea6071c8e" /> </a> <a href="https://www.instagram.com/ayushpanday__/">
   <img align="left" alt="Ayush Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> 
   </a>
 
