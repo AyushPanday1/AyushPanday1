@@ -11,7 +11,7 @@ With years of experience in web development, I specialize in building robust, sc
 - **Frontend Ingenuity:** Passionate about designing dynamic, responsive, and accessible user interfaces.
 - **Code Craftsmanship:** Committed to writing clean, maintainable, and high-quality code with a focus on performance and security.
 - **Collaborative Problem Solving:** A proactive team player, mentoring junior developers and contributing to successful project deliveries.
-- 
+  
 📬 Let's Connect and Create Something Exceptional
 I’m open to collaborating on challenging projects, contributing to impactful open-source initiatives, or brainstorming ideas that push boundaries. Together, we can shape the future of digital experiences!
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
