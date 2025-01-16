@@ -40,13 +40,6 @@ I’m open to collaborating on challenging projects, contributing to impactful o
 ---
 .
 
-
-### GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=AyushPanday1&theme=dark&hide_border=false)<br/>
-
----
-.
-
 ### About:
 
 - 🔭 I’m currently working as Software Engineer.
@@ -60,7 +53,7 @@ I’m open to collaborating on challenging projects, contributing to impactful o
 .
 
 ## Happy Coding!
-© 2023 Ayush Panday
+© 2025 Ayush Panday
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
